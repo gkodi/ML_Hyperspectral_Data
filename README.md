@@ -8,7 +8,7 @@ To use this repository, you can clone it to your local machine and then run the 
 ## **Contents**
 The repository includes the following files and directories:
 
-**notebooks/**: Jupyter notebooks containing code for each step of the process, including data cleaning and preprocessing, feature engineering, hyperparameter tuning, and prediction. Every notebbok contain example to show how to use the function. In general the input for each notebook is pandas DataFrame and the output is also DataFrame after proccesing so you can export it to CSV file.
+* **notebooks/**: Jupyter notebooks containing code for each step of the process, including data cleaning and preprocessing, feature engineering, hyperparameter tuning, and prediction. Every notebbok contain example to show how to use the function. In general the input for each notebook is pandas DataFrame and the output is also DataFrame after proccesing so you can export it to CSV file.
 
 ## **Contributing**
 Contributions to this repository are welcome. If you find a bug or have a suggestion for a new feature, please send a mail to [yehudayu@gmail.com](mailto:yehudayu@gmail.com).
