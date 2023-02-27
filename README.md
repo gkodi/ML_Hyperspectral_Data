@@ -1,4 +1,4 @@
-# **HyperSpectral Image Analysis with Machine Learning**
+# **Hyperspectral Image Analysis with Machine Learning**
 
 This repository contains code and resources for an end-to-end machine learning process for analyzing hyperspectral images. The process includes denoising data, feature engineering, hyperparameter tuning, and prediction on new images.
 
